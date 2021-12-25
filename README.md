@@ -12,3 +12,11 @@ npm install
 ```
 npm run transpile
 ```
+
+## Commands to publish you repository on npm
+```
+npm login
+```
+```
+npm publish
+```
