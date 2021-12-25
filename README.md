@@ -1,6 +1,6 @@
 ## reactjs-library-template
 
-### Template to create reactjs component library which will help you to create you dream library.
+### Template to create reactjs component library which will help you to create your dream library.
 
 
 # How to use
