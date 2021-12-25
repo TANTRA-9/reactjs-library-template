@@ -8,4 +8,5 @@
 ## Commands to setup enviroment:
 ```
 npm install
+npm run transpile
 ```
